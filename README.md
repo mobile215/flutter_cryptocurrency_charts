@@ -42,7 +42,7 @@ This project has been built using the Flutter framework, which allows to build a
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/TBR-Group-software/flutter_cryptocurrency_charts.git
+https://github.com/kinker5/flutter_cryptocurrency_charts.git
 ```
 
 **Step 2:**
